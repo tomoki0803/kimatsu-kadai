@@ -1,7 +1,7 @@
 h1{color:red;}
 
-p.sample1{border: inset 10px 0000ff;}
-p.sample2{border: inset 10px 0000ff;}
-p.sample3{border: inset 10px 0000ff;}
-p.sample4{border: inset 10px 0000ff;}
-p.sample5{border: inset 10px 0000ff;}
+p.sample1{border: inset 10px green;}
+p.sample2{border: inset 10px black;}
+p.sample3{border: inset 10px red;}
+p.sample4{border: inset 10px yellow;}
+p.sample5{border: inset 10px blue;}
