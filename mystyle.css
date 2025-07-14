@@ -1,1 +1,7 @@
-h1 {color: red;}
+h1{color:red;}
+
+p.sample1{border: double 10px red}
+p.sample2{border: double 10px blue}
+p.sample3{border: double 10px green}
+p.sample4{border: double 10px black}
+p.sample5{border: double 10px yellow}
