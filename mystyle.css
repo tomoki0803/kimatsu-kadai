@@ -8,4 +8,4 @@ p.sample3{border: inset 10px red;}
 p.sample4{border: inset 10px yellow;}
 p.sample5{border: inset 10px blue;}
 
-.resized-image {max-width: 30px; height: auto;}
+.resized-image {max-width: 100px; height: auto;}
