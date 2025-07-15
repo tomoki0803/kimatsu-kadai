@@ -1,5 +1,7 @@
 h1{color:red;}
 
+th, td {border: dashed thick black;}
+
 p.sample1{border: inset 10px green;}
 p.sample2{border: inset 10px black;}
 p.sample3{border: inset 10px red;}
